@@ -1,134 +1,186 @@
-# Mohamed Irfan S
+<h1 align="center">Mohamed Irfan S</h1>
 
-**Full-Stack Developer · AI & ML Student · Open Source Contributor**
+<p align="center">
+  <strong>Full-Stack Developer &nbsp;·&nbsp; AI & ML Engineer &nbsp;·&nbsp; Open Source Contributor</strong>
+</p>
 
-📍 Tamil Nadu, India &nbsp;|&nbsp; 📧 as.mohamed2915@gmail.com &nbsp;|&nbsp; 🎓 KPRIET Coimbatore
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-irfan-s-b81b42299/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://p-one-pink.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:as.mohamed2915@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mohamed-irfan7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-irfan-s-b81b42299/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://p-one-pink.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:as.mohamed2915@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohamed-irfan7)
-
----
-
-## About Me
-
-I am a motivated Full-Stack Developer currently pursuing B.E in Computer Science with specialization in AI & ML at KPR Institute of Engineering and Technology, Coimbatore. I have hands-on experience building and deploying responsive web applications using React, Node.js, and MongoDB. I am passionate about open source contributions, AI-powered applications, and building clean, scalable software solutions.
-
----
-
-## Experience
-
-**Python Developer Intern · Cognifyz Technologies, Coimbatore**
-- Automated server monitoring and performance reporting using Python scripts, reducing manual effort
-- Built backend mini-projects focused on data validation, logic building, and error handling
-- Strengthened debugging, code documentation, and problem-solving skills in a professional environment
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, REST APIs, FastAPI |
-| **Database** | MongoDB, Supabase, Firebase |
-| **Languages** | JavaScript, TypeScript, Python, Java, SQL, C |
-| **AI & Automation** | OpenAI, Google Gemini, n8n, Gmail API, Google Sheets API |
-| **Tools** | Git, GitHub, VS Code, Vercel, Netlify, Figma, Google Colab |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-irfan7&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-## Projects
+## 👋 About Me
+
+> *"I don't just write code — I build products that solve real problems."*
+
+I am a **Full-Stack Developer** and **AI & ML student** at KPR Institute of Engineering and Technology, Coimbatore (CGPA: 8.0). I specialize in building end-to-end web applications — from pixel-perfect UIs to scalable backend APIs.
+
+Currently interning as a **Python Developer at Cognifyz Technologies** and actively contributing to **open source projects**.
+
+```typescript
+const mohamedIrfan = {
+  location    : "Tamil Nadu, India 🇮🇳",
+  education   : "B.E CSE (AI & ML) @ KPRIET — CGPA 8.0",
+  experience  : "Python Developer Intern @ Cognifyz Technologies",
+  openSource  : "5+ PRs merged in hushh-labs/hushh_Tech_website",
+  lookingFor  : "Full-Stack / AI Engineer roles",
+  contact     : "as.mohamed2915@gmail.com"
+};
+```
+
+---
+
+## 💼 Work Experience
+
+### Python Developer Intern · Cognifyz Technologies, Coimbatore
+- Automated server monitoring and performance reporting using Python scripts, reducing manual effort significantly
+- Built backend mini-projects focused on data validation, logic building, and error handling in Python
+- Strengthened debugging, code documentation, and problem-solving skills in a professional team environment
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎯 EventSnap — AI-Powered Event Photo Finder
-`React` `TypeScript` `Tailwind CSS` `Node.js`
-- Built a full-stack AI platform that helps users find their event photos using facial recognition APIs
-- Implemented QR-based event joining system, photo upload pipeline, and role-based access for organizers and attendees
-- Developed responsive UI with Tailwind CSS and integrated frontend with backend REST APIs end-to-end
-- **[Live Demo](https://event-snap-ashen.vercel.app)**
+> React · TypeScript · Tailwind CSS · Node.js · Facial Recognition API
+
+- Built a full-stack AI platform that helps users find their photos from events using facial recognition
+- Implemented QR-based event joining, photo upload pipeline, and role-based access for organizers and attendees
+- Integrated frontend with backend REST APIs end-to-end with optimized performance
+- 🔗 **[Live Demo](https://event-snap-ashen.vercel.app)** · **[GitHub](https://github.com/mohamed-irfan7)**
 
 ---
 
-### 👗 MakeSol Fashion Web App
-`React` `Node.js` `Express.js` `MongoDB`
-- Designed and developed a full-stack e-commerce fashion platform with dynamic product rendering
-- Integrated MongoDB for product data storage and built RESTful APIs using Express.js
-- Implemented component-based React architecture ensuring reusability and scalable UI structure
-- **[Live Demo](https://makesolfasion.netlify.app)**
+### 👗 MakeSol Fashion — E-Commerce Platform
+> React · Node.js · Express.js · MongoDB
+
+- Designed and developed a full-stack e-commerce platform with dynamic product rendering and smooth navigation
+- Built RESTful APIs with Express.js and integrated MongoDB for scalable data storage
+- Implemented component-based React architecture ensuring reusability and maintainability
+- 🔗 **[Live Demo](https://makesolfasion.netlify.app)** · **[GitHub](https://github.com/mohamed-irfan7)**
 
 ---
 
 ### 📧 Cold Email Automation Pipeline
-`n8n` `JavaScript` `Gmail API` `Google Sheets API`
-- Built end-to-end automated workflow that reads business data from Google Sheets and sends personalized emails via Gmail API
-- Implemented smart scheduling, delay logic, and status tracking to manage delivery at scale
-- Demonstrates full workflow thinking: data extraction → processing → automated output
+> n8n · JavaScript · Gmail API · Google Sheets API
+
+- Built an end-to-end automated workflow that reads structured business data from Google Sheets
+- Dynamically generates personalized email content and dispatches via Gmail API
+- Implemented smart scheduling, delay logic, and status tracking — handles delivery at scale
+- 🔗 **[GitHub](https://github.com/mohamed-irfan7/n8n-cold-email-automation)**
 
 ---
 
-### 🌐 Personal Portfolio Website
-`TypeScript` `CSS` `JavaScript`
-- Designed and built a responsive personal portfolio showcasing projects, skills, and contact information
-- Implemented smooth scroll animations and mobile-first responsive layout
-- **[Live Demo](https://p-one-pink.vercel.app)**
+### 🌐 Personal Portfolio
+> TypeScript · CSS · JavaScript
+
+- Responsive portfolio with smooth scroll animations and mobile-first design
+- 🔗 **[Live Demo](https://p-one-pink.vercel.app)**
 
 ---
 
-### 👟 Sneaker Store E-Commerce
-`React` `CSS`
-- Built a responsive e-commerce UI with product listings, hover effects, and mobile-first design
-- Focused on clean component structure and cross-device compatibility
+## 🏆 Open Source Contributions
+
+> **Active contributor to [hushh-labs/hushh_Tech_website](https://github.com/hushh-labs/hushh_Tech_website)** — a production React + TypeScript + Supabase application
+
+| # | Type | Description | Impact |
+|---|------|-------------|--------|
+| PR #774 | 🐛 Bug Fix | Fixed career route spelling causing 404 blank page | Routes working correctly |
+| PR #768 | 💅 UI Fix | Added responsive breakpoints to Home and Fund A pages | Desktop layout fixed |
+| PR #736 | 🐛 Bug Fix | Replaced hardcoded copyright year with dynamic value | Future-proof copyright |
+| PR open | ⚡ Performance | SEO metadata, code splitting, lazy loading | 25% bundle size reduction |
+| Issue #814 | 🔍 Bug Report | Identified unused dead code in Footer.tsx | Code quality improved |
 
 ---
 
-### 🔗 QR Code Generator
-`HTML` `CSS` `JavaScript`
-- Built an instant QR code generator with third-party API integration and interactive UI
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-## Open Source Contributions
+## 📊 GitHub Stats
 
-**Active Contributor — [hushh-labs/hushh_Tech_website](https://github.com/hushh-labs/hushh_Tech_website)**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamed-irfan7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-irfan7&theme=tokyonight&hide_border=true"/>
+</p>
 
-| Contribution | Description |
-|-------------|-------------|
-| PR #774 | Fixed career route spelling that caused 404 blank page |
-| PR #768 | Added responsive breakpoints to Home and Fund A pages |
-| PR #736 | Replaced hardcoded copyright year with dynamic value |
-| PR open | Added SEO metadata, code splitting and lazy loading improvements |
-| Issue #814 | Identified and reported unused dead code in Footer.tsx |
-
----
-
-## Education
-
-**B.E Computer Science (AI & ML)**
-KPR Institute of Engineering and Technology, Coimbatore
-CGPA: 8.0 · 2023 – Present
-
-**Bio-Maths (10th & 12th)**
-Mount Park Higher Secondary School, Kallakurichi
-Percentage: 83%
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-irfan7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## Certifications
+## 🎓 Education
 
-- JavaScript — HackerRank
-- 10 JavaScript Projects — Udemy
-- GitHub Foundations — GitHub
-- Backend Development — Meta, Coursera
-- C, C++, Java — IIT Bombay
-- MongoDB Foundations — MongoDB
-- EGG Drop Challenge — IEEE Club, KPRIET
-- AWS Certified AI Practitioner — Pursuing, Coursera
+| Degree | Institution | Score | Year |
+|--------|------------|-------|------|
+| B.E CSE (AI & ML) | KPR Institute of Engineering and Technology, Coimbatore | CGPA 8.0 | 2023 – Present |
+| Bio-Maths (12th) | Mount Park Higher Secondary School, Kallakurichi | 83% | Completed |
 
 ---
 
-## GitHub Stats
+## 📜 Certifications
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohamed-irfan7&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-irfan7&theme=default&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-irfan7&layout=compact&theme=default&hide_border=true)
+| Certificate | Issuer |
+|------------|--------|
+| JavaScript | HackerRank |
+| 10 JavaScript Projects | Udemy |
+| GitHub Foundations | GitHub |
+| Backend Development | Meta, Coursera |
+| C, C++, Java | IIT Bombay |
+| MongoDB Foundations | MongoDB |
+| AWS AI Practitioner | Pursuing — Coursera |
+
+---
+
+<p align="center">
+  <strong>💬 Open to Full-Stack, AI Engineer, and Internship opportunities!</strong>
+  <br/>
+  <a href="mailto:as.mohamed2915@gmail.com">📧 Hire Me</a> &nbsp;·&nbsp;
+  <a href="https://p-one-pink.vercel.app">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-irfan-s-b81b42299/">💼 LinkedIn</a>
+</p>
